@@ -1,4 +1,5 @@
 # name generator:
+demo: https://excellent-pen.surge.sh/
 npm install --save-exact @rstacruz/startup-name-generator
 
 # fonts (public > index.html)
